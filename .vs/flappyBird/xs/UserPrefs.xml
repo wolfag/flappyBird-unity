@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{9B280DAE-57FA-0442-D641-E6706434CC44}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameplayController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BGScale.cs" Line="25" Column="1" />
+      <File FileName="Assets/Scripts/BirdController.cs" Line="100" Column="59" />
+      <File FileName="Assets/Scripts/PipeHolder.cs" />
+      <File FileName="Assets/Scripts/SpawnerPipe.cs" />
+      <File FileName="Assets/Scripts/MainMenuController.cs" />
+      <File FileName="Assets/Scripts/GameplayController.cs" Line="18" Column="27" />
+      <File FileName="Assets/Scripts/GameManager.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1b3f9caa-33c8-4ad0-9f42-5bcffab97013" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
